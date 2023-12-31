@@ -1,0 +1,6 @@
+.DS_Store
+*.pem
+*.p12
+pass.pkpass
+MemberID.pass/signature
+MemberID.pass/manifest.json
